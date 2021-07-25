@@ -1,8 +1,8 @@
-# awesome-zephyr
-
-The Zephyr RTOS ([Zephyr Project](https://www.zephyrproject.org/)) is awesome!
+# Awesome Zephyr RTOS [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="https://raw.githubusercontent.com/fkromer/awesome-zephyr/master/logo.svg?sanitize=true" align="right" width="86">](https://www.zephyrproject.org/)
+
+> A curated list of awesome Zephyr RTOS ([Zephyr Project](https://www.zephyrproject.org/)) resoures.
 
 ## Contents
 
