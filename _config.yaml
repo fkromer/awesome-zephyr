@@ -3,4 +3,4 @@ logo: /logo.svg
 description: The Zephyr RTOS is awesome!
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-hacker
+theme: jekyll-theme-minimal
