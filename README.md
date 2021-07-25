@@ -4,6 +4,23 @@ The Zephyr RTOS ([Zephyr Project](https://www.zephyrproject.org/)) is awesome!
 
 [<img src="https://raw.githubusercontent.com/fkromer/awesome-zephyr/master/logo.svg?sanitize=true" align="right" width="86">](https://www.zephyrproject.org/)
 
+## Contents
+
+- [Zephyr core components](#zephyr-core-components)
+- [Guides](#guides)
+- [Best Practices](#best-practices)
+- [Suggested uses](#suggested-uses)
+- [API reference](#api-reference)
+- [Zephyr modules](#zephyr-modules)
+- [Virtualization](#virtualization)
+- [Hardware Abstraction](#hardware-abstraction)
+- [Releases](#releases)
+- [VSCode extensions](#vscode-extensions)
+- [Development containers](#development-containers)
+- [Development frameworks](#development-frameworks)
+- [Blog posts](#blog-posts)
+- [Videos](#videos)
+
 ## Zephyr core components
 
 - [Zephyr](https://github.com/zephyrproject-rtos/zephyr) - Zephyr RTOS.
@@ -14,7 +31,9 @@ The Zephyr RTOS ([Zephyr Project](https://www.zephyrproject.org/)) is awesome!
 - [Kconfig](https://www.kernel.org/doc/html/latest/kbuild/kconfig-language.html) - Build configuration.
 - [devicetree](https://www.devicetree.org/) - Hardware description.
 
-## Guides (v2.6.99)
+## Guides
+
+Zephyr v2.6.99
 
 - [Getting Started Guide](https://docs.zephyrproject.org/latest/getting_started/index.html)
 - [Beyond the Getting Started Guide](https://docs.zephyrproject.org/latest/guides/beyond-GSG.html)
@@ -26,11 +45,15 @@ The Zephyr RTOS ([Zephyr Project](https://www.zephyrproject.org/)) is awesome!
 - [Architecture-related Guides](https://docs.zephyrproject.org/latest/guides/arch/index.html)
 - [Contribution Guidelines](https://docs.zephyrproject.org/latest/contribute/index.html)
 
-## Best Practices (v2.6.99)
+## Best Practices
+
+Zephyr v2.6.99
 
 - [Kconfig - Tips and Best Practices](https://docs.zephyrproject.org/latest/guides/build/kconfig/tips.html)
 
-## Suggested uses (v2.6.99)
+## Suggested uses
+
+Zephyr v2.6.99
 
 - Kernel Services
   - Scheduling, Interrupts, and Synchronization
@@ -63,7 +86,9 @@ The Zephyr RTOS ([Zephyr Project](https://www.zephyrproject.org/)) is awesome!
     - [Floating Point Services](https://docs.zephyrproject.org/latest/reference/kernel/other/float.html#suggested-uses)
     - [C++ Support for Applications](https://docs.zephyrproject.org/latest/reference/kernel/other/cxx_support.html)
 
-## API reference (v2.6.99)
+## API reference
+
+Zephyr v2.6.99
 
 - [API Status](https://docs.zephyrproject.org/latest/reference/api/index.html)
 
